@@ -10,7 +10,6 @@ import { FaFilePdf } from 'react-icons/fa';
 import Image from "next/image";
 import kd from "../public/kdavatar.png";
 import Navbar from "./Navbar";
-// import Heading from "./Heading";
 
 export default function Home() {
   

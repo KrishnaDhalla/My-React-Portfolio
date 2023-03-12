@@ -40,7 +40,7 @@ const Projects = () => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
    
-    <section id="projects" className='bg-white px-10 md:px-20 lg:px-36 dark:bg-gray-900 md:pb-20 pb-10'>
+    <section id="projects" className='bg-white px-10 md:px-20 lg:px-36 dark:bg-gray-900 md:pb-20 pb-10 min-h-screen'>
      <ThemeProvider enableSystem={true} attribute="class">
       <Navbar/>
 

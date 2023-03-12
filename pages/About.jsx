@@ -30,11 +30,11 @@ const About = () => {
       </Head>
     <section
       id="about"
-      className="bg-white px-10 md:px-16 lg:px-36 dark:bg-gray-900  mx-auto"
+      className="bg-white px-10 md:px-16 lg:px-36 dark:bg-gray-900 min-h-screen"
     >
       <ThemeProvider enableSystem={true} attribute="class">
         <Navbar />
-        <div className="my-12 pb-12 md:pt-16 md:pb-48">
+        <div className="my-12 pb-12 md:pt-16 ">
           <h1 className="text-center font-bold text-4xl mb-10">
             About Me
             <hr className="w-6 h-1 mx-auto my-4 bg-teal-500 border-0 rounded"></hr>
@@ -59,7 +59,7 @@ const About = () => {
               <br />
               <p>
                 I have a wide range of hobbies and passions that keep me busy.
-                From playing sports, traveling, watcting anime, I am always
+                From playing sports, traveling, watching anime, I am always
                 seeking new experiences and love to keep myself engaged and
                 learning new things.
               </p>
