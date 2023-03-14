@@ -8,7 +8,7 @@ import {
 import { FaEnvelope } from 'react-icons/fa';
 import { FaFilePdf } from 'react-icons/fa';
 import Image from "next/image";
-import kd from "../public/kdavatar.png";
+import kd from "../public/kdavatar.webp";
 import Navbar from "./Navbar";
 import {motion as m} from "framer-motion"
 
