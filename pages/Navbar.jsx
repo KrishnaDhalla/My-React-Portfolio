@@ -27,14 +27,14 @@ const Navbar = () => {
                   </a>
                 </Link>
                {currentTheme === "dark" ? (
-                <button
+                <button id='light'
                   onClick={() => setTheme("light")}
                   className=" pb-2 md:pl-10 lg:pl-10 "
                 >
                   <RiSunLine size={25} color="white" />
                 </button>
               ) : (
-                <button
+                <button id='dark'
                   onClick={() => setTheme("dark")}
                   className=" pb-2 md:pl-10 lg:pl-10 "
                 >
