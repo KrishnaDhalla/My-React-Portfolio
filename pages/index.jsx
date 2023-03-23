@@ -67,7 +67,7 @@ export default function Home() {
             <a href="https://www.linkedin.com/in/krishna-d-4007731a4/"target={"_blank"}><AiFillLinkedin className="cursor-pointer"/></a>
             <a href="https://github.com/KrishnaDhalla"target={"_blank"}><AiFillGithub className="cursor-pointer"/></a>
             <a href="mailto:krishnadhallakd@gmail.com"target={"_blank"}><FaEnvelope className="cursor-pointer"/></a>
-            <a href="https://drive.google.com/file/d/1l8oSqvWlNiuHmnP5cStbpPJiyHif0TjD/view?usp=share_link"target={"_blank"}><FaFilePdf className="cursor-pointer"/></a>
+            <a href="https://drive.google.com/drive/folders/1cN-2Q8mxLkaaDDP1mctwq09AY_9PhPOF?usp=share_link"target={"_blank"}><FaFilePdf className="cursor-pointer"/></a>
           </div>
           <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-64 h-64 relative overflow-hidden mt-10 md:h-72 md:w-72">
             <Image alt="my image" src={kd} fill object-cover className=""/>

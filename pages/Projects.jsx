@@ -10,6 +10,13 @@ import {motion as m} from "framer-motion"
 
 const project=[
   {
+    name:"CoinView",
+    description:"Coinview is a cryptocurrency tracker app that has been developed using ReactJS and Material UI 5. This app allows users to keep track of their favorite cryptocurrencies and monitor their prices in real-time.",
+    github:"https://github.com/KrishnaDhalla/CoinView.git",
+    link:"https://coinview.netlify.app/",
+    image:"/coinview2.webp"
+  },
+  {
     name:"Authentication",
     description:"The website showcases secure user authentication using Node.js, Express, MongoDB, JWT, and cookies.",
     github:"https://github.com/KrishnaDhalla/Authentication-using-Node.js",
