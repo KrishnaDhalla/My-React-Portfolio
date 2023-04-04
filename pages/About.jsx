@@ -17,6 +17,8 @@ const skills = [
   { skill: "/nodejs.png" },
   { skill: "/express.png" },
   { skill: "/mongodb.png" },
+  { skill: "/material.svg" },
+  { skill: "/firebase.svg" },
   { skill: "/vercel.png" },
   { skill: "/netlify.png" },
 ];
