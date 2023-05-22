@@ -35,7 +35,7 @@ const Hero = () => {
           <FaEnvelope className="cursor-pointer" />
         </a>
         <a
-          href="https://drive.google.com/drive/folders/1cN-2Q8mxLkaaDDP1mctwq09AY_9PhPOF?usp=share_link"
+          href="https://drive.google.com/file/d/1UxLj28BC6KgdK-sxSjoVq1o1Ecu5Dv7x/view?usp=share_link"
           target={"_blank"}
         >
           <FaFilePdf className="cursor-pointer" />
